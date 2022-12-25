@@ -108,9 +108,6 @@ Not a spacial resources in this course.But, Thera are lot of Experienced mentors
 
 
 
-
-
-
 ___
 
 ```
@@ -149,6 +146,121 @@ Thera are support team and big community here.
 
 #### [Check the certificate from the website](https://www.hackerrank.com/certificates/4957d706bda8)
 
+___
+
+```
 
 
+```
+
+
+<!-- 5th certificate -->
+
+## __Bright Skills ICT OLYMPIAD__
+___
+
+```
+```
+<img src="images/brightskill.png"  width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my Know How About ICT OLYMPIAD BANGLADESH-Course. that is why I got a certificate from a `brightskill` platform. This course to Organize by ICT OLYMPIAD.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The present age is the age of technology. So acquiring skills in ICT is mandatory for the present generation. It is impossible to succeed in a career in today's era depending only on institutional education, technology skills are required for success. Therefore, ICT Olympiad Bangladesh is working to make the next generation a skilled population to reach the right knowledge about ICT at the grass root level. Know How About ICT OLYMPIAD BANGLADESH-Course to learn all the information related to ICT OLYMPIAD BANGLADESH mission, central, departmental, district team and ambassadors' duties and activities in detail.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://brightskills.com/classroom/know-how-about-ict-olympiad-bangladesh)
+
+
+
+
+___
+
+```
+
+
+```
+
+
+<!-- 6th certificate -->
+
+## __Python Programming Course__
+___
+
+```
+```
+<img src="images/guvi.png"  width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my Python Programming Course. that is why I got a certificate from a `GUVI` platform. It was a course to learn programming.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The course is designed so you can learn by yourself, there are no tutorials and no documentation.
+There are no resources in this course that you have to learn on your own. That's the beauty of this course, it's a different experience. Where you have no helper you must help yourself.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://www.guvi.in/verify-certificate?id=90Q611R6A1X9c7k59w)
+
+
+
+
+
+
+___
+
+```
+
+
+```
+
+
+<!-- 7th certificate -->
+
+## __JavaScript Course__
+___
+
+```
+```
+<img src="images/simplilearn.png"  width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my javascript for beginners course. that is why I got a certificate from a `simplilearn` platform. It was a course to learn programming.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The course is designed so you can learn by yourself, there are no tutorials and no documentation.
+There are no resources in this course that you have to learn on your own. That's the beauty of this course, it's a different experience. Where you have no helper you must help yourself.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://simpli-web.app.link/e/fXSncQuo2vb)
 
