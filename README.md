@@ -1,3 +1,39 @@
+## __Python Essentional Course__
+___
+
+```
+```
+<img src="images/cisco.png" width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my Python Essentional course. that is why I got a certificate from a `CISCO` platform. It was a course to learn programming.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The course is designed so you can learn by yourself, there are no tutorials and no documentation.
+There are no resources in this course that you have to learn on your own. That's the beauty of this course, it's a different experience. Where you have no helper you must help yourself.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://www.credly.com/badges/1441ec48-9f7a-49cf-95a2-28c67bbd18f1/public_url)
+
+
+___
+
+```
+
+
+```
+
+
 ## __JavaScript Course__
 ___
 
@@ -263,4 +299,86 @@ There are no resources in this course that you have to learn on your own. That's
 ### __Website Link..__
 
 #### [Check the certificate from the website](https://simpli-web.app.link/e/fXSncQuo2vb)
+
+
+
+
+
+
+## __Software Engineering Virtual Experience__
+___
+
+```
+```
+<img src="images/software.png" width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my Software Engineering Virtual Experience course. that is why I got a certificate from a `Forage` platform. It was a course to learn programming.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The course is designed so you can learn by yourself, there are no tutorials and no documentation.
+There are no resources in this course that you have to learn on your own. That's the beauty of this course, it's a different experience. Where you have no helper you must help yourself.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Wells%20Fargo/9Wvq4L2WCFQDyyPp3_Wells%20Fargo_ZxHEdsz3aHZkLnXGR_1691152547073_completion_certificate.pdf)
+
+
+___
+
+```
+
+
+```
+
+## __Cybersecurity Virtual Experience__
+___
+
+```
+```
+<img src="images/cybersecurity.png" width=auto height=auto>
+
+
+```
+```
+### ### __Description__
+<p style="font-size:20px">
+
+I completed my Cybersecurity Virtual Experience. that is why I got a certificate from a `Forage` platform. It was a course to learn programming.
+</p>
+
+###  __Let's talk about the course__
+___
+<p style="font-size:15px">
+The course is designed so you can learn by yourself, there are no tutorials and no documentation.
+There are no resources in this course that you have to learn on your own. That's the beauty of this course, it's a different experience. Where you have no helper you must help yourself.
+</p>
+
+### __Website Link..__
+
+#### [Check the certificate from the website](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/aig/2ZFnEGEDKTQMtEv9C_AIG_ZxHEdsz3aHZkLnXGR_1691167330622_completion_certificate.pdf)
+
+
+___
+
+```
+
+
+```
+
+
+
+
+
+
+
 
